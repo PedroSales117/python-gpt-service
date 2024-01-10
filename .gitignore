@@ -4,3 +4,8 @@ env/
 
 # Environment Variables
 config.py
+
+
+#pychache
+__pycache__/
+.pytest_cache
